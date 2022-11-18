@@ -1,4 +1,4 @@
-#Pix2PIX
+ #Pix2PIX   
 
 A pasta 'normal T1' possui os dados de treino, validação e teste com relação a transformação de séries temporais em imagens sem considerar a ordem espaço-temporal já a pasta 'por data T2'  possui os dados de treino, validação e teste com relação a transformação  proposta de séries temporais em imagens considerando a ordem espaço-temporal.
 A pasta 'por janelas' possui csv's dos janelamentos contendo em colunas as imputações de todos os métodos bem como da rede Pix2Pix e o valor real.
